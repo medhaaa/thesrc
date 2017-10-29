@@ -2,6 +2,8 @@
 #include<stdbool.h>
 #include<string.h>
 
+/* Count number of islands in given matrix m */
+
 #define ROWS 5
 #define COLS 5
 
